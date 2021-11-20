@@ -1,0 +1,16 @@
+C:\Users\OWNER\workspace\BankConsole51\bin\Debug\net5.0\BankConsole51.exe
+C:\Users\OWNER\workspace\BankConsole51\bin\Debug\net5.0\BankConsole51.deps.json
+C:\Users\OWNER\workspace\BankConsole51\bin\Debug\net5.0\BankConsole51.runtimeconfig.json
+C:\Users\OWNER\workspace\BankConsole51\bin\Debug\net5.0\BankConsole51.runtimeconfig.dev.json
+C:\Users\OWNER\workspace\BankConsole51\bin\Debug\net5.0\BankConsole51.dll
+C:\Users\OWNER\workspace\BankConsole51\bin\Debug\net5.0\ref\BankConsole51.dll
+C:\Users\OWNER\workspace\BankConsole51\bin\Debug\net5.0\BankConsole51.pdb
+C:\Users\OWNER\workspace\BankConsole51\obj\Debug\net5.0\BankConsole51.csproj.AssemblyReference.cache
+C:\Users\OWNER\workspace\BankConsole51\obj\Debug\net5.0\BankConsole51.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\OWNER\workspace\BankConsole51\obj\Debug\net5.0\BankConsole51.AssemblyInfoInputs.cache
+C:\Users\OWNER\workspace\BankConsole51\obj\Debug\net5.0\BankConsole51.AssemblyInfo.cs
+C:\Users\OWNER\workspace\BankConsole51\obj\Debug\net5.0\BankConsole51.csproj.CoreCompileInputs.cache
+C:\Users\OWNER\workspace\BankConsole51\obj\Debug\net5.0\BankConsole51.dll
+C:\Users\OWNER\workspace\BankConsole51\obj\Debug\net5.0\ref\BankConsole51.dll
+C:\Users\OWNER\workspace\BankConsole51\obj\Debug\net5.0\BankConsole51.pdb
+C:\Users\OWNER\workspace\BankConsole51\obj\Debug\net5.0\BankConsole51.genruntimeconfig.cache
